@@ -1,0 +1,14 @@
+{
+    "medications": [
+        {
+            "name": "Cough Medicine",
+            "ASA": 150
+        },
+        {
+            "name": "Sore Throat Medicine",
+            "ASA": 250
+        }
+    ],
+    "name": "Coby",
+    "weight": 80
+}

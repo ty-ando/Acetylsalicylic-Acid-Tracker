@@ -1,0 +1,14 @@
+{
+    "name": "Jim",
+    "weight": 55,
+    "medications": [
+        {
+            "name": "Tylenol",
+            "ASA": 200
+        },
+        {
+            "name": "Advil",
+            "ASA": 100
+        }
+    ]
+}
